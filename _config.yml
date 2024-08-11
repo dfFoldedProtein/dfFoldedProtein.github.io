@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: This Random Guys Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Michael Domarkas
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I'm a 17 year old high school student looking to make something beautiful in the world"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  facebook: 
+  github: 
+  twitter: 
+  patreon: 
+  youtube: "@"
   whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
