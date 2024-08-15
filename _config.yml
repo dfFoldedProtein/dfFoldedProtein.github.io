@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: This Random Guys Blog
+title: Michael Domarkas
 
 # Your name to show in the footer
 author: Michael Domarkas
@@ -20,11 +20,12 @@ author: Michael Domarkas
 ###############################################
 
 navbar-links:
-  About Me: "I'm a 17 year old high school student looking to make something beautiful in the world"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: michaeldomarkas.com/aboutme
+  Currently reading: michaeldomarkas.com/reading
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Where I go for fun: "lesswrong.com"
 
 ################
 # --- Logo --- #
@@ -50,17 +51,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "me@michaeldomarkas.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
-  github: 
-  twitter: 
-  patreon: 
-  youtube: "@"
-  whatsapp: 15551212
+#  facebook: 
+#  github: 
+#  twitter: 
+#  patreon: 
+#  youtube: "@"
+#  whatsapp: 
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: michael-domarkas-621aa8262
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -100,7 +101,8 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+
+# url-pretty: "michaeldomarkas.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
