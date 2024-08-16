@@ -770,6 +770,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
   }
+  /* naughty botching of some blog post width code to test sizing*/
+  .blog-post .caption {
+    width: 60%;
+  }
 }
 
 #header-gh-btns {
@@ -995,7 +999,6 @@ pre {
   display: block;
   border-bottom-right-radius: 0.3125rem;
   border-bottom-left-radius: 0.3125rem;
-  width: 80%;
 }
 
 .blog-post hr {
