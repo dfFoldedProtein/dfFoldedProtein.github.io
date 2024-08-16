@@ -771,7 +771,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 0.875rem;
   }
   /* naughty botching of some blog post width code to test sizing*/
-  .blog-post .caption {
+  .blog-post {
     width: 30%;
   }
 }
