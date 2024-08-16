@@ -772,7 +772,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   /* naughty botching of some blog post width code to test sizing*/
   .blog-post .caption {
-    width: 60%;
+    width: 30%;
   }
 }
 
