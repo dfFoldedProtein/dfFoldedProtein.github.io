@@ -991,7 +991,7 @@ pre {
   padding: 0.625rem;
   font-style: italic;
   color: #777;
-  margin: 1.2rem;
+  margin: 0;
   display: block;
   border-bottom-right-radius: 0.3125rem;
   border-bottom-left-radius: 0.3125rem;
@@ -1121,5 +1121,18 @@ pre {
   }
   #nav-search-text {
     display: inline-block;
+  }
+}
+
+
+@media (min-width: 1200px) {
+  .offset-xl-2\.5 {
+    margin-left: 20.83333%;
+  }
+}
+
+@media (min-width: 992px) {
+  .offset-lg-1\.5 {
+    margin-left: 12.5%;
   }
 }
